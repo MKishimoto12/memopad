@@ -73,7 +73,7 @@ class memoViewController: UIViewController, UITextFieldDelegate {
         
         //アラートを出す処理
         let alert: UIAlertController = UIAlertController(title: "保存", message: "保存が完了しました。", preferredStyle: .alert)
-        
+        //適当に変更点
         alert.addAction(
             UIAlertAction(title: "OK",
                           style: .default,
